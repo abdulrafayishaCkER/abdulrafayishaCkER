@@ -23,9 +23,9 @@ I am a Cyber Security student with a strong interest in offensive security, secu
 
 I am currently working on an **AI-based automated penetration testing tool** for intelligent scanning, vulnerability enrichment, and attack-surface mapping in controlled environments.
 
-I am looking to collaborate on **cybersecurity, penetration testing, SIEM, and AI-powered security projects**.
+I am looking to collaborate on **cybersecurity, penetration testing, and AI-powered security projects**.
 
-I am currently learning **advanced penetration testing, Elastic SIEM, attack-path reasoning, and safe LLM integration in cybersecurity systems**.
+I am currently learning **advanced penetration testing, attack-path reasoning, and safe LLM integration in cybersecurity systems**.
 
 ---
 
@@ -35,7 +35,6 @@ I am currently learning **advanced penetration testing, Elastic SIEM, attack-pat
 - Intelligent scanning and service analysis
 - Vulnerability enrichment and evidence normalization
 - Attack-surface graphing
-- SIEM and detection engineering labs
 - Practical offensive security workflows
 
 ---
@@ -47,9 +46,6 @@ A lab-focused security automation project designed to perform intelligent scanni
 
 ### PQC Guard
 A cryptographic security project focused on identifying weak configurations, certificate issues, and compliance-related weaknesses in TLS and SSH environments.
-
-### Elastic SIEM Detection Lab
-Hands-on security monitoring work using Sysmon, Elastic Stack, custom detection rules, dashboards, and practical threat detection use cases.
 
 ---
 
