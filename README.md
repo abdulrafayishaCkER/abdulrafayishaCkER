@@ -1,18 +1,98 @@
-# 💫 About Me:
-## About Me<br><br>Hi, I'm Abdul Rafay, a Cyber Security student passionate about offensive security, AI-assisted security automation, and practical lab-based research. I enjoy building real projects that combine scanning, evidence collection, and intelligent analysis.<br><br>I’m currently working on  <br>An AI-based automated penetration testing tool for intelligent scanning, vulnerability enrichment, and attack-surface mapping.<br><br>I’m looking to collaborate on  <br>Cybersecurity, penetration testing, SIEM, and AI-powered security projects.<br><br>I’m looking for help with  <br>Improving autonomous pentesting architecture, attack graphs, and production-ready security automation.<br><br>I’m currently learning  <br>Advanced penetration testing, Elastic SIEM, attack-path reasoning, and LLM integration in cybersecurity.<br><br>Ask me about  <br>Offensive security labs, Nmap pipelines, AI security tools, and cybersecurity student projects.<br><br>Fun fact  <br>I prefer building working cybersecurity labs and tools instead of only writing about them.
+<h1 align="center">Abdul Rafay</h1>
+<p align="center">
+  Cyber Security Student | Offensive Security | AI-Assisted Security Automation
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafay-19437630b)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrafayjaved58@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulrafayishaCkER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulrafayishaCkER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayishaCkER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-rafay-19437630b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdulrafayjaved58@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://abdulrafay07.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdulrafayishaCkER&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I am a Cyber Security student with a strong interest in offensive security, security automation, and practical lab-based research. I enjoy building real projects that combine intelligent scanning, evidence collection, structured analysis, and security-focused decision making.
+
+I am currently working on an **AI-based automated penetration testing tool** for intelligent scanning, vulnerability enrichment, and attack-surface mapping in controlled environments.
+
+I am looking to collaborate on **cybersecurity, penetration testing, SIEM, and AI-powered security projects**.
+
+I am currently learning **advanced penetration testing, Elastic SIEM, attack-path reasoning, and safe LLM integration in cybersecurity systems**.
+
+---
+
+## Current Focus
+
+- AI-based automated penetration testing
+- Intelligent scanning and service analysis
+- Vulnerability enrichment and evidence normalization
+- Attack-surface graphing
+- SIEM and detection engineering labs
+- Practical offensive security workflows
+
+---
+
+## Featured Projects
+
+### AI-Based Automated Penetration Testing Tool
+A lab-focused security automation project designed to perform intelligent scanning, evidence collection, vulnerability enrichment, and attack-surface analysis using structured outputs and controlled workflows.
+
+### PQC Guard
+A cryptographic security project focused on identifying weak configurations, certificate issues, and compliance-related weaknesses in TLS and SSH environments.
+
+### Elastic SIEM Detection Lab
+Hands-on security monitoring work using Sysmon, Elastic Stack, custom detection rules, dashboards, and practical threat detection use cases.
+
+---
+
+## Technical Skills
+
+### Security
+`Penetration Testing` `Vulnerability Assessment` `Network Reconnaissance` `Web Enumeration` `Attack Surface Analysis` `Security Automation` `SIEM` `Detection Engineering`
+
+### Tools
+`Nmap` `Burp Suite` `Metasploit` `ffuf` `Gobuster` `Nikto` `Netcat` `Kali Linux` `Elastic Stack`
+
+### Programming
+`Python` `C++` `JavaScript` `TypeScript`
+
+### Development
+`Next.js` `Node.js` `Tailwind CSS` `Docker` `Git` `GitHub`
+
+### Databases and Infrastructure
+`MySQL` `PostgreSQL` `MongoDB` `SQLite` `Redis` `Neo4j` `Nginx` `Apache`
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafayishaCkER&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafayishaCkER&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdulrafayishaCkER&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+- LinkedIn: [abdul-rafay-19437630b](https://www.linkedin.com/in/abdul-rafay-19437630b/)
+- Portfolio: [abdulrafay07.netlify.app](https://abdulrafay07.netlify.app/)
+- Email: [abdulrafayjaved58@gmail.com](mailto:abdulrafayjaved58@gmail.com)
+
+---
+
+<p align="center">
+  I prefer building working cybersecurity labs and tools instead of only writing about them.
+</p>
