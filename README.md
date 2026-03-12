@@ -52,10 +52,10 @@ A cryptographic security project focused on identifying weak configurations, cer
 ## Technical Skills
 
 ### Security
-`Penetration Testing` `Vulnerability Assessment` `Network Reconnaissance` `Web Enumeration` `Attack Surface Analysis` `Security Automation` `SIEM` `Detection Engineering`
+`Penetration Testing` `Vulnerability Assessment` `Network Reconnaissance` `Web Enumeration` `Attack Surface Analysis` `Security Automation`  
 
 ### Tools
-`Nmap` `Burp Suite` `Metasploit` `ffuf` `Gobuster` `Nikto` `Netcat` `Kali Linux` `Elastic Stack`
+`Nmap` `Burp Suite` `Metasploit` `ffuf` `Gobuster` `Nikto` `Netcat` `Kali Linux` 
 
 ### Programming
 `Python` `C++` `JavaScript` `TypeScript`
